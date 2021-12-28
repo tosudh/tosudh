@@ -6,7 +6,9 @@ Thanks for giving a view.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tosudh.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersudhanshu/)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tosudh&show_icons=true&theme=radical)
 
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tosudh&show_icons=true&theme=radical)
 
   
 ## 🚀 About Me
